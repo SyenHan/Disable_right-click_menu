@@ -1,0 +1,2 @@
+# Disable_right-click_menu
+JavaScript/JQuery屏蔽网页鼠标右键菜单及禁止选择复制
